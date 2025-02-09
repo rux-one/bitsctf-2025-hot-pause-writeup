@@ -3,11 +3,11 @@
 
 ### Category: OSINT
 
-This challenge presented an MP4 fan-video from a concert and a question/answer bot. The first question was about the city name in which the recording was made. I did not have a clue what this concert was so I started with google image search with a frame from the video. The results were suggesting Coldplay and I sort of lucky guessed it's the song "Yellow". 
+This challenge presented an MP4 fan-video from a concert and a question/answer bot. The first question was about the city name in which the recording was made. I did not have a clue what this concert was so I started with google image search with a frame from the video. The results were suggesting Coldplay and I sort of lucky guessed it's the song "Yellow". Sorry, I live under a stone! 
 
 ![](uploads/e5f97455-0c47-4da6-bf9e-ec3e42eedb34.png)
 
-I then started searching youtube for live Coldplay concerts in stadiums and found another fanmade short video with matching colours, this one was titled "Narendra Modi" which quickly led me to the city name: `AHMEDABAD`.
+I then started searching youtube for live Coldplay concerts in stadiums and found another fan-made short video with matching colours, this one was titled "Narendra Modi" which quickly led me to the city name: `AHMEDABAD`.
 
 The next question required a specific seat from where the provided video was recorded. Knowing the stadium name I found it's seating diagram online and guessed the right spot at the 3rd attempt: `Q3`. It was possible by observing the location of entrances and where the main stage was situated.
 
